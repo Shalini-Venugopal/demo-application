@@ -1,0 +1,10 @@
+.counter button{
+    outline: none;
+    border: none;
+    padding: 5px;
+    margin-right: 5px;
+    background-color: #0ef106f8;
+    color: white;
+    border-radius: 5px;
+
+}
